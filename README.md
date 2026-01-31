@@ -48,7 +48,6 @@ Next.js | React | Node.js | Polygon | Hardhat | Alchemy | Firebase | Web3 | ZK P
 
 - 🌐 [Website](https://www.synergyxzk.xyz)
 - 💼 [LinkedIn](https://www.linkedin.com/in/andreza-s)
-- 📧 [comercial@synergyxzk.xyz](mailto:comercial@synergyxzk.xyz)
 
 ---
 
